@@ -90,14 +90,14 @@ session_start();
                         <img tabindex="0" src="img/kesehatan.png" alt="Maria Karlina Lero">
                     </div>
                     <h3 tabindex="0">Maria Karlina Lero</h3>
-                    <p tabindex="0">[22180014] Prodi. Keperawatan</p>
+                    <p tabindex="0">[22180014] Prodi. Kebidanan</p>
                 </div>
                 <div class="team-member">
                     <div class="image-container">
                         <img tabindex="0" src="img/kesehatan.png" alt="Foto Amanda Amelia Geli">
                     </div>
                     <h3 tabindex="0">Amanda Amelia Geli</h3>
-                    <p tabindex="0">[22180015] Prodi. Keperawatan</p>
+                    <p tabindex="0">[22180015] Prodi. Kebidanan</p>
                 </div>
             </div>
         </section>
